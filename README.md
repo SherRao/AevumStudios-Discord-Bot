@@ -1,4 +1,4 @@
-# Aevum Studios Discord Bot
+# AevumStudios - Discord Bot
 A Discord bot providing functionality for the official AevumStudios Discord server.
 
 # Dependencies
